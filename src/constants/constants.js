@@ -14,7 +14,7 @@ export const projects = [
       image: 'https://firebasestorage.googleapis.com/v0/b/luman-developer.appspot.com/o/projects-page.png?alt=media&token=7f80b370-e3d9-4c16-a076-ed77e969834c',
       tags: ['Angular', 'Spring', 'MySQL' ],
     source: 'https://github.com/xLuisManrique/',
-    visit: 'https://vercel.com/xluismanrique/luman-projects-page',
+    visit: 'https://luman-projects-page.vercel.app/',
     id: 1,
   },
   
