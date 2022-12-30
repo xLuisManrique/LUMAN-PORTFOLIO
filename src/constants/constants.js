@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://luman-ia.vercel.app/',
     id: 0,
   },
+   {
+    title: 'PROJECTS PAGE',
+    description: "Using Angular with SpringBoots, MySQL, Bootstrap, APIs and other dependecy such as Swal, Firebase and ShoppingCart whit Paypal can observe the use of these simple but useful tools to practice and improve your development skills.",
+      image: 'https://firebasestorage.googleapis.com/v0/b/luman-developer.appspot.com/o/projects-page.png?alt=media&token=7f80b370-e3d9-4c16-a076-ed77e969834c',
+      tags: ['Angular', 'Spring', 'MySQL' ],
+    source: 'https://github.com/xLuisManrique/LUMAN-IA-PROJECT',
+    visit: 'https://luman-ia.vercel.app/',
+    id: 1,
+  },
   
 ];
 
