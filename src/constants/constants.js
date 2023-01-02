@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
    {
-    title: 'PROJECTS PAGE',
+    title: 'ANGULAR PROJECTS',
     description: "Using Angular with SpringBoots, MySQL, Bootstrap, APIs and other dependecy such as Swal, Firebase and ShoppingCart whit Paypal can observe the use of these simple but useful tools to practice and improve your development skills.",
       image: 'https://firebasestorage.googleapis.com/v0/b/luman-developer.appspot.com/o/projects-page.png?alt=media&token=7f80b370-e3d9-4c16-a076-ed77e969834c',
       tags: ['Angular', 'Spring', 'MySQL' ],
     source: 'https://github.com/xLuisManrique/',
     visit: 'https://luman-projects-page.vercel.app/',
     id: 1,
+  },
+   {
+    title: 'LUMAN CHAT',
+    description: "In this project i build a full-fledged Firebase Chat Application. With social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more",
+      image: 'https://firebasestorage.googleapis.com/v0/b/luman-developer.appspot.com/o/Chat2.png?alt=media&token=c4c7761a-182a-4975-b71f-60ceb12efb95',
+      tags: ['React', 'Firebase', 'APIs' ],
+    source: 'https://github.com/xLuisManrique/',
+    visit: 'https://luman-chat.netlify.app/',
+    id: 2,
   },
   
 ];
