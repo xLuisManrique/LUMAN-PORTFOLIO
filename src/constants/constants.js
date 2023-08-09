@@ -26,6 +26,14 @@ export const projects = [
     visit: 'https://luman-chat.netlify.app/',
     id: 2,
   },
+   {
+    title: 'Basic WebShop',
+    description: "This proyect is a basic Webshop store using Angular/TypeScript, Express.js, and Tailwind CSS. We gonna learn how to use Angular Material and Tailwind to structure our UI and how to integrate store API into our app using FakeStoreAPI ",
+      image: 'https://firebasestorage.googleapis.com/v0/b/luman-developer.appspot.com/o/WebSHop.png?alt=media&token=bf0687f9-f5bb-4438-97fe-195f4eeb4a41',
+      tags: ['Angular', 'TailwandCSS', 'Express.js' ],
+    source: 'https://github.com/xLuisManrique/Basic-WebShopping',
+    id: 3,
+  },
   
 ];
 
@@ -34,4 +42,6 @@ export const TimeLineData = [
   { year: 2022, text: 'Started learn Java Master in Udemy Academy', },
   { year: 2022, text: 'Started work in my Projects', },
   { year: 2022, text: 'Shared my projects with the world', },
+  { year: 2023, text: 'Started learn Angular and React', },
+  { year: 2023, text: 'Started work in looking for a job', },
 ];
