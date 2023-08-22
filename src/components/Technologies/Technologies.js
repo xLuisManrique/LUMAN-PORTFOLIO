@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiAngularSimple, DiFirebase, DiJava, DiPython, DiReact, DiSprings, DiUnitySmall, DiZend } from 'react-icons/di';
+import { DiAngularSimple, DiFirebase, DiJava, DiPython, DiReact, DiSprings, DiPhp, DiUnitySmall, DiZend, DiMysql } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -51,6 +51,19 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             Data scientist and Machine Learning
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+      <picture>
+          <DiMysql size="3rem" /> 
+        </picture>
+        <ListContainer>
+          <ListTitle>DataBase</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            MySQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
