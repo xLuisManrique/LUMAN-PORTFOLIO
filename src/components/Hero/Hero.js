@@ -17,9 +17,8 @@ const Hero = () => (
         acquiring skills in Python, JavaScript, PHP and many more tools that you can find in my github
         repository.
         </SectionText>
-        <Button onClick={() => window.location = 'https://github.com/xLuisManrique'}>Repository
-          <Button onClick={() => window.location = 'https://drive.google.com/file/d/1XSWJL2QzCGTiEb_srUA0Ti3j__y0-A3E/view?usp=sharing'}>My CV</Button>
-          </Button>     
+        <Button onClick={() => window.location = 'https://github.com/xLuisManrique'}>Repository</Button>
+        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1XSWJL2QzCGTiEb_srUA0Ti3j__y0-A3E/view?usp=sharing'}>My CV</Button>   
       </LeftSection>
     </Section>
   </>
