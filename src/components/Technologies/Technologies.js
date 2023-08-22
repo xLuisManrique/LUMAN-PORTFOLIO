@@ -17,10 +17,7 @@ const Technologies = () =>  (
 
       <ListItem>
       <picture>
-          <DiAngularSimple size="3rem" />
-        </picture>
-      <picture>
-          <DiReact size="3rem" />
+          <DiAngularSimple size="3rem" /> <DiReact size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
@@ -33,7 +30,7 @@ const Technologies = () =>  (
 
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" />
+          <DiFirebase size="3rem" /> <DiJava size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
@@ -66,19 +63,6 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             JAVA and Jakarta EE
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-
-      <ListItem>
-        <picture>
-          <DiUnitySmall size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>Unity Testing</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            JUnit5 and Mockito
           </ListParagraph>
         </ListContainer>
       </ListItem>
