@@ -9,32 +9,24 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've Learn with a range a technologies in the web development world.
-      From Back-end To Design
+      From Back-end To Design to make me Full Stack.
     </SectionText>
     <List>
 
+      
+
       <ListItem>
-        <picture>
+      <picture>
+          <DiAngularSimple size="3rem" />
+        </picture>
+      <picture>
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-
-      <ListItem>
-      <picture>
-          <DiAngularSimple size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>Front-End</ListTitle>
-          <ListParagraph>
-            Experiece with <br />
-            Angular
+            Angular and React
           </ListParagraph>
         </ListContainer>
       </ListItem>
