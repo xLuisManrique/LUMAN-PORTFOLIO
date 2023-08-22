@@ -23,23 +23,20 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            JavaScript,
-            Angular and React
+            JavaScript | Angular and React
           </ListParagraph>
         </ListContainer>
       </ListItem>
 
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" /> <pitcture> <DiJava size="3rem" /> </picture>
+          <DiFirebase size="3rem" /> <pitcture> <DiJava size="3rem" /> </picture> <pitcture> <DiPhp size="3rem" /> </picture>
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            PHP, Laravel, Symfony
-            Java, SpringBoot
-            Firebase
+            PHP, Laravel, Symfony | Java, SpringBoot | Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>
