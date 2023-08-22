@@ -1,6 +1,8 @@
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillYoutube, AiFillTiktok } from 'react-icons/ai';
 
+import { FaTiktok } from 'react-icons/fa';
+
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
 
@@ -35,7 +37,7 @@ const Footer = () => {
             <AiFillLinkedin size="3rem"/>
           </SocialIcons>
         <SocialIcons href="https://www.tiktok.com/@soylumanfullstack/">
-            <AiFillTiktok size="3rem"/>
+            <FaTiktok size="3rem"/>
           </SocialIcons>
 
         </SocialContainer>
