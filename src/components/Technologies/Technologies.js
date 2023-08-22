@@ -17,12 +17,13 @@ const Technologies = () =>  (
 
       <ListItem>
       <picture>
-          <DiAngularSimple size="3rem" /> <DiReact size="3rem" />
+          <DiAngularSimple size="3rem" /> <pitcture> <DiReact size="3rem" /> </pitcture>
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
+            JavaScript,
             Angular and React
           </ListParagraph>
         </ListContainer>
@@ -30,13 +31,15 @@ const Technologies = () =>  (
 
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" /> <DiJava size="3rem" />
+          <DiFirebase size="3rem" /> <pitcture> <DiJava size="3rem" /> </picture>
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            SpringBoot
+            PHP, Laravel, Symfony
+            Java, SpringBoot
+            Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -54,18 +57,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
 
-      <ListItem>
-        <picture>
-          <DiJava size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>JAVA</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            JAVA and Jakarta EE
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
+     
 
 
     </List>
