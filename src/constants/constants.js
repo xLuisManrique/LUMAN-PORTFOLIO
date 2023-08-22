@@ -22,8 +22,7 @@ export const projects = [
     description: "In this project i build a full-fledged Firebase Chat Application. With social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more",
       image: 'https://firebasestorage.googleapis.com/v0/b/luman-developer.appspot.com/o/Chat2.png?alt=media&token=c4c7761a-182a-4975-b71f-60ceb12efb95',
       tags: ['React', 'Firebase', 'APIs' ],
-    source: 'https://github.com/xLuisManrique/',
-    visit: 'https://luman-chat.netlify.app/',
+    source: 'https://github.com/xLuisManrique/blog-luman',
     id: 2,
   },
    {
@@ -41,7 +40,5 @@ export const TimeLineData = [
   { year: 2022, text: 'Started learn Python in Udemy Academy', },
   { year: 2022, text: 'Started learn Java Master in Udemy Academy', },
   { year: 2022, text: 'Started work in my Projects', },
-  { year: 2022, text: 'Shared my projects with the world', },
-  { year: 2023, text: 'Started learn Angular and React', },
-  { year: 2023, text: 'Started work in looking for a job', },
+  { year: 2023, text: 'Shared my projects with the world', },
 ];
