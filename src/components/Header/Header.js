@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillFacebook, AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillMail, AiFillYoutube, AiFillTiktok } from 'react-icons/ai';
+import { FaTiktok } from 'react-icons/fa';
 import { DiCssdeck } from 'react-icons/di';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
@@ -43,7 +44,7 @@ const Header = () =>  (
             <AiFillLinkedin size="3rem"/>
           </SocialIcons>
           <SocialIcons href="https://www.tiktok.com/@soylumanfullstack/">
-            <AiFillTiktok size="3rem"/>
+            <FaTiktok size="3rem"/>
           </SocialIcons>
         </Div3>
       </Container>
