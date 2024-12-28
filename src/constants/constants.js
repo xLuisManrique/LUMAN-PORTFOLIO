@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'LUMAN IA',
     description: "Using React with NextJS, i build my first PortFolio website. ",
-      image: 'https://drive.google.com/file/d/19-pNGiWf6p3Brb5-oHxTQWxxFIZKtMtA/view?usp=drive_link',
+      image: 'https://drive.google.com/file/d/1-ZpBNlgmHTPH3idOdQr7cUcaJ43ckdW3/view',
       tags: ['React'],
     source: 'https://github.com/xLuisManrique/LUMAN-PORTFOLIO',
     visit: 'https://luman-portfolio.vercel.app/',
