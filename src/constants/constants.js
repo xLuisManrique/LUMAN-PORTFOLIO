@@ -39,6 +39,6 @@ export const projects = [
 export const TimeLineData = [
   { year: 2022, text: 'Started learn Python in Udemy Academy', },
   { year: 2022, text: 'Started learn Java Master in Udemy Academy', },
-  { year: 2022, text: 'Started work in my Projects', },
-  { year: 2023, text: 'Shared my projects with the world', },
+  { year: 2023, text: 'Started work in my Projects', },
+  { year: 2024, text: 'Shared my projects with the world', },
 ];
