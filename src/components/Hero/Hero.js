@@ -9,8 +9,8 @@ const Hero = () => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          LUMAN Portfolio Website!
+          Welcome To <br/>
+          LUMAN Portfolio Website.
         </SectionTitle>
         <SectionText>
         Luman is a Junior Developer Full Stack! with solid knowledge in creating web applications, both BackEnd and FrontEnd client.
