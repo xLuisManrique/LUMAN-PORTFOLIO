@@ -5,7 +5,6 @@ export const projects = [
       image: 'https://firebasestorage.googleapis.com/v0/b/luman-developer.appspot.com/o/IA-LUMAN.png?alt=media&token=ef7e7f92-c749-4589-ac38-edd09b2f55d7',
       tags: ['React'],
     source: 'https://github.com/xLuisManrique/LUMAN-IA-PROJECT',
-    visit: 'https://luman-ia.vercel.app/',
     id: 0,
   },
    {
