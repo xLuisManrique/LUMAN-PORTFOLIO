@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillFacebook, AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillMail, AiFillYoutube, AiFillTiktok } from 'react-icons/ai';
-import { FaTiktok } from 'react-icons/fa';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
